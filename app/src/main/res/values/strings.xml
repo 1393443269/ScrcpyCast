@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ScrcpyCast</string>
+    <string name="mode_sender">发送端（投屏）</string>
+    <string name="mode_receiver">接收端（显示）</string>
+    <string name="start_server">启动投屏</string>
+    <string name="stop_server">停止投屏</string>
+    <string name="start_client">连接接收</string>
+    <string name="stop_client">断开连接</string>
+    <string name="server_ip">服务端IP地址</string>
+    <string name="server_port">端口号</string>
+    <string name="connection_status">连接状态</string>
+    <string name="fps_display">帧率</string>
+    <string name="connecting">连接中...</string>
+    <string name="connected">已连接</string>
+    <string name="disconnected">已断开</string>
+    <string name="wifi_not_connected">请先连接WiFi</string>
+</resources>
